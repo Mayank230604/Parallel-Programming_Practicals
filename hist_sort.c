@@ -32,3 +32,11 @@ int main() {
 
     return 0;
 }
+
+/*
+Compile using:
+   gcc -fopenmp hist_sort.c -o hist_sort
+
+Run the program:
+   ./hist_sort
+*/

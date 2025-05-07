@@ -61,3 +61,22 @@ int main() {
 
     return 0;
 }
+
+/*
+Compile using:
+   gcc -fopenmp bfs.c -o bfs
+
+Run the program:
+   ./bfs
+*/
+
+/*
+Example Input:
+Enter number of vertices: 4
+Enter adjacency matrix:
+1 0 1 1
+1 0 0 0
+0 1 1 0
+0 1 0 1
+Enter starting vertex: 0
+*/

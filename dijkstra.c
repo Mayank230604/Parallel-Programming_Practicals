@@ -57,3 +57,11 @@ int main() {
     dijkstra(graph, 0);
     return 0;
 }
+
+/*
+Compile using:
+   gcc -fopenmp dijkstra.c -o dijkstra
+
+Run the program:
+   ./dijkstra
+*/

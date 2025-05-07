@@ -29,3 +29,11 @@ int main() {
 
     return 0;
 }
+
+/*
+Compile using:
+   gcc -fopenmp matrix_mul.c -o matrix_mul
+   
+Run the program:
+   ./matrix_mul
+*/
